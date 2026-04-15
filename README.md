@@ -7,7 +7,7 @@ ___
 
 ## 📊 Dashboard Preview
 
-[![Dashboard](images/dashboard.png)](<img width="651" height="699" alt="Captura de Tela 2026-04-15 às 21 32 11" src="https://github.com/user-attachments/assets/2a3c9932-767c-47c3-a4c8-0d0d43e247bc" />)
+[![Dashboard](<img width="651" height="699" alt="Captura de Tela 2026-04-15 às 21 32 11" src="https://github.com/user-attachments/assets/2a3c9932-767c-47c3-a4c8-0d0d43e247bc" />)
 
 ___
 
