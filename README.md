@@ -32,6 +32,19 @@ The best opportunities are:
 
 ---
 
+## 🧠 How the Priority Score Works
+
+The Priority Score is calculated as a weighted combination of:
+
+- Demand (sales history)
+- Seasonality (timing)
+- Inventory levels (capacity)
+- Target gap (urgency)
+
+Higher scores indicate higher commercial priority.
+
+___
+
 ## 🛠️ Tools
 
 * Python (Pandas)
