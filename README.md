@@ -19,12 +19,14 @@ Commercial decisions in agribusiness are often made without structured prioritiz
 
 ## 🧠 Solution
 
-A Priority Score model combining:
+This project develops a data-driven model to identify where to act first in fertilizer sales.
 
-* Sales history
-* Seasonality
-* Inventory levels
-* Target gap
+The model combines:
+
+- Demand (sales history)
+- Seasonality (timing)
+- Inventory levels (capacity)
+- Target gap (urgency)
 
 ---
 
